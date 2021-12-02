@@ -31,4 +31,4 @@ Unknown argument "second" on field "Query.books".
 
 This is happening when a query has more than one arguments and one of them is deprecated.
 
-It is then removed from the schema in the Apollo Studo explorer.
+It is then removed from the schema in the Apollo Studio explorer.
